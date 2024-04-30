@@ -1,1 +1,3 @@
 hello
+checking out git
+
